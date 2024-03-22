@@ -16,9 +16,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void button_Click(View view) {
-        EditText edtName = (EditText) findViewById(R.id.editName);
+        EditText editName = (EditText) findViewById(R.id.editName);
         TextView txvShow = (TextView) findViewById(R.id.txvShow);
-        String name = edtName.getText().toString();
+        String name = editName.getText().toString();
         txvShow.setText("你的名字是:" + name);
     }
 }

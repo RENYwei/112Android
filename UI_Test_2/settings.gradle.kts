@@ -13,7 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Counter"
-include(":app")
+rootProject.name = "UI_Test"
 include(":app")
  

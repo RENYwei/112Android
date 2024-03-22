@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Counter</string>
-    <string name="input_name">輸入姓名</string>
-    <string name="send">送出</string>
-    <string name="show">顯示結果</string>
-
+    <string name="app_name">BMI</string>
+    <string name="height">身高(CM):</string>
+    <string name="weight">體重(KG):</string>
+    <string name="clear">清除</string>
+    <string name="bmi">計算BMI</string>
 </resources>
