@@ -10,52 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b18a771-760d-437e-a18b-7c9867ca7cb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/androidTest/java/com/example/linearlayoutdemo/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/java/com/example/linearlayoutdemo/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/app/src/test/java/com/example/linearlayoutdemo/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearLayoutDemo/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI_Test_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UI_Test_2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2eLfMlyAMHemQe5o8iiWrlebgc7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,7 +49,8 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/s303/Documents/GitHub/112Android/LinearLayoutDemo"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/RENY/Downloads/112Android-main/112Android-main/Calculation"
   }
 }]]></component>
   <component name="RunManager">
