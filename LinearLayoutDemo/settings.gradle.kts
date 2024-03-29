@@ -13,7 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Counter"
+rootProject.name = "LinearLayoutDemo"
 include(":app")
-include(":app")
- 
