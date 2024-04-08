@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
     <EditText
+        android:background="@drawable/button_style"
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:inputType="number"
@@ -13,6 +14,7 @@
         android:text="0"
         android:textSize="36sp"
         android:textStyle="bold"
+        android:textColor="@color/white"
         android:textAlignment="gravity"
         android:gravity="center_vertical|right"
         android:paddingEnd="16dp"
@@ -22,15 +24,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <Button
+            android:textColor="@color/black"
             android:layout_width="wrap_content"
-            android:layout_height="100dp"
+            android:layout_height="75dp"
             android:text="Back"
             android:layout_weight="0.5"
             android:textSize="36sp"
             android:onClick="processKeyInput"/>
         <Button
+            android:textColor="@color/black"
             android:layout_width="wrap_content"
-            android:layout_height="100dp"
+            android:layout_height="75dp"
             android:text="Clear"
             android:layout_weight="0.5"
             android:textSize="36sp"
@@ -56,6 +60,7 @@
             android:layout_row="0"
             android:onClick="processKeyInput"/>
         <Button android:text="+"
+            android:textColor="@color/red"
             android:layout_column="3"
             android:layout_row="0"
             android:onClick="processKeyInput"/>
@@ -72,6 +77,7 @@
             android:layout_row="1"
             android:onClick="processKeyInput"/>
         <Button android:text="-"
+            android:textColor="@color/red"
             android:layout_column="3"
             android:layout_row="1"
             android:onClick="processKeyInput"/>
@@ -88,6 +94,7 @@
             android:layout_row="2"
             android:onClick="processKeyInput"/>
         <Button android:text="*"
+            android:textColor="@color/red"
             android:layout_column="3"
             android:layout_row="2"
             android:onClick="processKeyInput"/>
@@ -100,10 +107,12 @@
             android:layout_row="3"
             android:onClick="processKeyInput"/>
         <Button android:text="="
+            android:textColor="@color/red"
             android:layout_column="2"
             android:layout_row="3"
             android:onClick="processKeyInput"/>
         <Button android:text="/"
+            android:textColor="@color/red"
             android:layout_column="3"
             android:layout_row="3"
             android:onClick="processKeyInput"/>
