@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity{
                 RadioGroup type = findViewById(R.id.rgType);
                 int checkedId = type.getCheckedRadioButtonId();
                 if (checkedId ==  R.id.rdbAdult)
-                    outputStr += "全票\n";
+                    outputStr += "全票\n";5
                 else if (checkedId ==  R.id.rdbChild)
                     outputStr += "兒童票\n";
                 else
