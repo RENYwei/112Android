@@ -45,6 +45,7 @@
     </RadioGroup>
 
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="70dp"
@@ -79,6 +80,7 @@
             android:layout_height="wrap_content"
             android:visibility="gone"
             app:srcCompat="@mipmap/rabbit" />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
